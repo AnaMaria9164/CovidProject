@@ -1,4 +1,4 @@
-#  CovidProject
+#  SQLCovidProject
 
 This project involves exploring COVID-19 data using SQL queries. 
 Various skills are utilised in the process, including Joins, CTEs (Common Table Expressions), Temp Tables, Window Functions, Aggregate Functions, Creating Views, and Converting Data Types.
